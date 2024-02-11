@@ -1,0 +1,2369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E6C142F2-0E26-4ECA-B6F5-5D3F6B534153"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9F77E23C-BA72-4341-9AC4-7856D7A58A7C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/CalendarView/CalendarView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "setData(calendar:offDates:datesWithEvents:endDate:startDate:firstWeekDay:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9F77E23C-BA72-4341-9AC4-7856D7A58A7C - 7d1de856ead1d982"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.setData(calendar: Foundation.Calendar, offDates: Swift.Array&lt;Foundation.Date&gt;, datesWithEvents: Swift.Array&lt;Foundation.Date&gt;, endDate: Foundation.Date, startDate: Foundation.Date, firstWeekDay: NativeCalendar.dayWeek) -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/CalendarView/CalendarView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "364">
+               </Location>
+               <Location
+                  uuid = "9F77E23C-BA72-4341-9AC4-7856D7A58A7C - 7d1de856ead1d982"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.setData(calendar: Foundation.Calendar, offDates: Swift.Array&lt;Foundation.Date&gt;, datesWithEvents: Swift.Array&lt;Foundation.Date&gt;, endDate: Foundation.Date, startDate: Foundation.Date, firstWeekDay: NativeCalendar.dayWeek) -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/CalendarView/CalendarView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "472">
+               </Location>
+               <Location
+                  uuid = "9F77E23C-BA72-4341-9AC4-7856D7A58A7C - 7d1de856ead1d982"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.setData(calendar: Foundation.Calendar, offDates: Swift.Array&lt;Foundation.Date&gt;, datesWithEvents: Swift.Array&lt;Foundation.Date&gt;, endDate: Foundation.Date, startDate: Foundation.Date, firstWeekDay: NativeCalendar.dayWeek) -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/CalendarView/CalendarView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "512">
+               </Location>
+               <Location
+                  uuid = "9F77E23C-BA72-4341-9AC4-7856D7A58A7C - 7d1de856ead1d982"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.setData(calendar: Foundation.Calendar, offDates: Swift.Array&lt;Foundation.Date&gt;, datesWithEvents: Swift.Array&lt;Foundation.Date&gt;, endDate: Foundation.Date, startDate: Foundation.Date, firstWeekDay: NativeCalendar.dayWeek) -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/CalendarView/CalendarView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "564">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5821F2AF-C30E-4496-BBD2-FDF17B7991F3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Utilities/UIViewExtension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "fromNib(type:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5821F2AF-C30E-4496-BBD2-FDF17B7991F3 - f4ab74203cfcc474"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__C.UIView.fromNib&lt;&#x3c4;_0_0 where &#x3c4;_0_0: __C.UIView&gt;(type: &#x3c4;_0_0.Type) -&gt; Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Utilities/UIViewExtension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "648">
+               </Location>
+               <Location
+                  uuid = "5821F2AF-C30E-4496-BBD2-FDF17B7991F3 - ab72d283809ac1e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__C.UIView.fromNib&lt;&#x3c4;_0_0 where &#x3c4;_0_0: __C.UIView&gt;(viewType: &#x3c4;_0_0.Type, frombunde: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Utilities/UIViewExtension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "1540">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DD5B1F4E-896F-4F7C-89F3-477CA431CB47"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/CalendarView/CalendarView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "setData(calendar:offDates:datesWithEvents:endDate:startDate:firstWeekDay:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DD5B1F4E-896F-4F7C-89F3-477CA431CB47 - 7d1de856ead1da61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.setData(calendar: Foundation.Calendar, offDates: Swift.Array&lt;Foundation.Date&gt;, datesWithEvents: Swift.Array&lt;Foundation.Date&gt;, endDate: Foundation.Date, startDate: Foundation.Date, firstWeekDay: NativeCalendar.dayWeek) -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/CalendarView/CalendarView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "364">
+               </Location>
+               <Location
+                  uuid = "DD5B1F4E-896F-4F7C-89F3-477CA431CB47 - 7d1de856ead1da61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.setData(calendar: Foundation.Calendar, offDates: Swift.Array&lt;Foundation.Date&gt;, datesWithEvents: Swift.Array&lt;Foundation.Date&gt;, endDate: Foundation.Date, startDate: Foundation.Date, firstWeekDay: NativeCalendar.dayWeek) -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/CalendarView/CalendarView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "472">
+               </Location>
+               <Location
+                  uuid = "DD5B1F4E-896F-4F7C-89F3-477CA431CB47 - 7d1de856ead1da61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.setData(calendar: Foundation.Calendar, offDates: Swift.Array&lt;Foundation.Date&gt;, datesWithEvents: Swift.Array&lt;Foundation.Date&gt;, endDate: Foundation.Date, startDate: Foundation.Date, firstWeekDay: NativeCalendar.dayWeek) -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/CalendarView/CalendarView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "512">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D68BF8F1-88BB-4E29-912A-32E71B845D4D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/CalendarDayCell/CalendarDayCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "130"
+            endingLineNumber = "130">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C90621C0-5CFC-4F7D-A0AC-C98C82D36912"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/CalendarDayCell/CalendarDayCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "132"
+            endingLineNumber = "132">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A03FD6E-AC81-4A7E-9A1F-044201CC09AF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/CalendarDayCell/CalendarDayCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "134"
+            endingLineNumber = "134">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D517F76D-1009-4BCC-8A34-FB984661282D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/CalendarDayCell/CalendarDayCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "142"
+            endingLineNumber = "142">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "549B4C46-B383-4C46-89C4-6637F54C8D17"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/CalendarDayCell/CalendarDayCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "150"
+            endingLineNumber = "150">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CBA9ED1B-8126-437D-A5BF-D25A045892E0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/CalendarDayCell/CalendarDayCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "157"
+            endingLineNumber = "157">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5B43E31C-5157-45C7-9589-5E8116B7E814"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/CalendarDayCell/CalendarDayCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "165"
+            endingLineNumber = "165">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A3AB191B-B12A-499E-BB55-8252E08199D7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Utilities/CollectionViewExtension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "CalendarView"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4E8547DA-AF7E-4D00-997D-7ED3E4EF2258"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/CalendarView/CalendarView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "initUi()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4E8547DA-AF7E-4D00-997D-7ED3E4EF2258 - 859c6de1cd2e28b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.initUi() -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/CalendarView/CalendarView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "4E8547DA-AF7E-4D00-997D-7ED3E4EF2258 - 859c6de1cd2e28b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.initUi() -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/CalendarView/CalendarView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "160">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "98A67232-67A9-468A-A311-F8C306710CD2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/CalendarView/CalendarView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "setupCalendarCollectionView()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "98A67232-67A9-468A-A311-F8C306710CD2 - 628a56bafffa776c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.setupCalendarCollectionView() -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/CalendarView/CalendarView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "98A67232-67A9-468A-A311-F8C306710CD2 - 628a56bafffa77b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.setupCalendarCollectionView() -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/CalendarView/CalendarView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CE28ECBB-731D-4CD9-8CC2-165F2F954E12"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/CalendarView/CalendarView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "init(frame:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CE28ECBB-731D-4CD9-8CC2-165F2F954E12 - bdbc90a035e94b89"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.init(frame: __C.CGRect) -&gt; NativeCalendar.CalendarView"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/CalendarView/CalendarView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "1080">
+               </Location>
+               <Location
+                  uuid = "CE28ECBB-731D-4CD9-8CC2-165F2F954E12 - bdbc90a035e94b89"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.init(frame: __C.CGRect) -&gt; NativeCalendar.CalendarView"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/CalendarView/CalendarView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "1036">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A2EE4B24-2FA1-4B68-BAF2-55AFFE9DFA4C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/CalendarView/CalendarView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "init(coder:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A2EE4B24-2FA1-4B68-BAF2-55AFFE9DFA4C - 274145c2664ba057"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.init(coder: __C.NSCoder) -&gt; NativeCalendar.CalendarView"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/CalendarView/CalendarView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "1084">
+               </Location>
+               <Location
+                  uuid = "A2EE4B24-2FA1-4B68-BAF2-55AFFE9DFA4C - 274145c2664ba057"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.init(coder: __C.NSCoder) -&gt; NativeCalendar.CalendarView"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/CalendarView/CalendarView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "1040">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7C663B13-0C7E-4AC3-B59F-E8F62603B28F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NativeCalendarTest/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7C663B13-0C7E-4AC3-B59F-E8F62603B28F - 2d7e0ce41d637687"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendarTest.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Desktop/NativeCalendarTest/NativeCalendarTest/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "1012">
+               </Location>
+               <Location
+                  uuid = "7C663B13-0C7E-4AC3-B59F-E8F62603B28F - 2d7e0ce41d637687"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendarTest.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Desktop/NativeCalendarTest/NativeCalendarTest/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "976">
+               </Location>
+               <Location
+                  uuid = "7C663B13-0C7E-4AC3-B59F-E8F62603B28F - 2d7e0ce41d637687"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendarTest.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Desktop/NativeCalendarTest/NativeCalendarTest/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "996">
+               </Location>
+               <Location
+                  uuid = "7C663B13-0C7E-4AC3-B59F-E8F62603B28F - 2d7e0ce41d637687"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendarTest.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Desktop/NativeCalendarTest/NativeCalendarTest/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "1028">
+               </Location>
+               <Location
+                  uuid = "7C663B13-0C7E-4AC3-B59F-E8F62603B28F - 2d7e0ce41d637687"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendarTest.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Desktop/NativeCalendarTest/NativeCalendarTest/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "964">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1CC041E8-5B31-4561-9F72-2C045AC648B5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/CalendarView/CalendarView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "init(coder:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1CC041E8-5B31-4561-9F72-2C045AC648B5 - 274145c2664ba0b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.init(coder: __C.NSCoder) -&gt; NativeCalendar.CalendarView"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/CalendarView/CalendarView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "1288">
+               </Location>
+               <Location
+                  uuid = "1CC041E8-5B31-4561-9F72-2C045AC648B5 - 274145c2664ba0b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.init(coder: __C.NSCoder) -&gt; NativeCalendar.CalendarView"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/CalendarView/CalendarView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "1244">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4C83DF9C-1843-4BBA-BDE1-07D58145E0E5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/CalendarView/CalendarView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "init(frame:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4C83DF9C-1843-4BBA-BDE1-07D58145E0E5 - bdbc90a035e94ba8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.init(frame: __C.CGRect) -&gt; NativeCalendar.CalendarView"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/CalendarView/CalendarView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "1204">
+               </Location>
+               <Location
+                  uuid = "4C83DF9C-1843-4BBA-BDE1-07D58145E0E5 - bdbc90a035e94ba8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.init(frame: __C.CGRect) -&gt; NativeCalendar.CalendarView"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/CalendarView/CalendarView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "1160">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "47ED7539-EF0F-4708-9875-3F3E6A45A326"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/CalendarView/CalendarView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "reloadCollectionView()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "47ED7539-EF0F-4708-9875-3F3E6A45A326 - 18f13f16bbc829bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.reloadCollectionView() -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/CalendarView/CalendarView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "47ED7539-EF0F-4708-9875-3F3E6A45A326 - 18f13f16bbc829bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.reloadCollectionView() -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/CalendarView/CalendarView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "42DDDC6E-C322-4932-8D16-2E44B0B51EBF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/CalendarView/CalendarView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "125"
+            endingLineNumber = "125"
+            landmarkName = "baseDate"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "42DDDC6E-C322-4932-8D16-2E44B0B51EBF - d962be89d7de3b5a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.baseDate.didset : Foundation.Date"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/CalendarView/CalendarView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "126"
+                  endingLineNumber = "126"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "42DDDC6E-C322-4932-8D16-2E44B0B51EBF - d962be89d7de3b7b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.baseDate.didset : Foundation.Date"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/CalendarView/CalendarView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9CA80B58-7FE2-4966-B02A-C97DDEA8DFFA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/CalendarView/CalendarView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "158"
+            endingLineNumber = "158">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "60814ADC-7C83-43AB-8751-02EA4BC5A269"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/CalendarDayCell/CalendarDayCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "prepareForReuse()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "131A0FAC-418E-4053-8BC6-D4CAFDAB7337"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/CalendarDayCell/CalendarDayCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "awakeFromNib()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "167A6CEC-7470-45C3-A0E1-3AF4B1C85C86"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CalendarHelpersMethods.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "moveToMonth(month:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "167A6CEC-7470-45C3-A0E1-3AF4B1C85C86 - f286eb027605e429"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.moveToMonth(month: NativeCalendar.Month) -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CalendarHelpersMethods.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "600">
+               </Location>
+               <Location
+                  uuid = "167A6CEC-7470-45C3-A0E1-3AF4B1C85C86 - f286eb027605e429"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.moveToMonth(month: NativeCalendar.Month) -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CalendarHelpersMethods.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "492">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E64BCE8E-9AB4-4EA7-8427-30AE47371DBB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CalendarHelpersMethods.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "getMonthWith(value:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0B30476A-4B21-4CEA-AB41-A8FD02956EE3"
+            shouldBeEnabled = "No"
+            condition = "calendar.isDate(date, inSameDayAs: userSelectedDate) == true"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CalendarDayGeneration.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "generateDay(offsetBy:for:isWithinDisplayedMonth:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0B30476A-4B21-4CEA-AB41-A8FD02956EE3 - 29781df06bc16c93"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.generateDay(offsetBy: Swift.Int, for: Foundation.Date, isWithinDisplayedMonth: Swift.Bool) -&gt; NativeCalendar.Day"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CalendarDayGeneration.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "1268">
+               </Location>
+               <Location
+                  uuid = "0B30476A-4B21-4CEA-AB41-A8FD02956EE3 - 29781df06bc16c93"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.generateDay(offsetBy: Swift.Int, for: Foundation.Date, isWithinDisplayedMonth: Swift.Bool) -&gt; NativeCalendar.Day"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CalendarDayGeneration.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "1060">
+               </Location>
+               <Location
+                  uuid = "0B30476A-4B21-4CEA-AB41-A8FD02956EE3 - 29781df06bc16c4d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.generateDay(offsetBy: Swift.Int, for: Foundation.Date, isWithinDisplayedMonth: Swift.Bool) -&gt; NativeCalendar.Day"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CalendarDayGeneration.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "1624">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EFCE6AD9-1CEB-4D1C-9D4A-5AAD8EFF0BF0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CollectionViewDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EFCE6AD9-1CEB-4D1C-9D4A-5AAD8EFF0BF0 - bcbda5997bf52947"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.collectionView(_: __C.UICollectionView, cellForItemAt: Foundation.IndexPath) -&gt; __C.UICollectionViewCell"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CollectionViewDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "792">
+               </Location>
+               <Location
+                  uuid = "EFCE6AD9-1CEB-4D1C-9D4A-5AAD8EFF0BF0 - bcbda5997bf52947"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.collectionView(_: __C.UICollectionView, cellForItemAt: Foundation.IndexPath) -&gt; __C.UICollectionViewCell"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CollectionViewDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "816">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "23EA5CC3-62B4-4C6C-B5C4-695FD97BFC34"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CollectionViewDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "309FB0EB-5F91-4F0C-9A72-5845A5E69D18"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CollectionViewDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "309FB0EB-5F91-4F0C-9A72-5845A5E69D18 - 5501d5cc8773c5f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CollectionViewDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "1564">
+               </Location>
+               <Location
+                  uuid = "309FB0EB-5F91-4F0C-9A72-5845A5E69D18 - 5501d5cc8773c5f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CollectionViewDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "1248">
+               </Location>
+               <Location
+                  uuid = "309FB0EB-5F91-4F0C-9A72-5845A5E69D18 - 5501d5cc8773c5f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CollectionViewDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "612">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D5C6E659-21EE-47E5-B4FF-55E38D7A2E6E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CalendarDayGeneration.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "generateDay(offsetBy:for:isWithinDisplayedMonth:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "26FCDA85-A28B-4F8F-AC76-9C9D93A34AD5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CalendarDayGeneration.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "generateDay(offsetBy:for:isWithinDisplayedMonth:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "88EF4B90-F9F9-4893-A75E-63BF25604359"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CollectionViewDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "CalendarView"
+            landmarkType = "21">
+            <Locations>
+               <Location
+                  uuid = "88EF4B90-F9F9-4893-A75E-63BF25604359 - 5501d5cc8773c5f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CollectionViewDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "1404">
+               </Location>
+               <Location
+                  uuid = "88EF4B90-F9F9-4893-A75E-63BF25604359 - 951e7914814cbdee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Double) -&gt; Swift.Bool in NativeCalendar.CalendarView.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CollectionViewDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "88EF4B90-F9F9-4893-A75E-63BF25604359 - 5501d5cc8773c591"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CollectionViewDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "988">
+               </Location>
+               <Location
+                  uuid = "88EF4B90-F9F9-4893-A75E-63BF25604359 - 5501d5cc8773c591"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CollectionViewDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "708">
+               </Location>
+               <Location
+                  uuid = "88EF4B90-F9F9-4893-A75E-63BF25604359 - 5501d5cc8773c591"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CollectionViewDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "524">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FF4D60EC-E586-4F94-87CE-400A9CF7B015"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CalendarDayGeneration.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "generateDay(offsetBy:for:isWithinDisplayedMonth:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "576D872C-75D0-4C08-ABE6-1D93A3B9CE9E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CollectionViewDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "setCell(cell:day:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "576D872C-75D0-4C08-ABE6-1D93A3B9CE9E - 5501d5cc8773c553"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CollectionViewDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "840">
+               </Location>
+               <Location
+                  uuid = "576D872C-75D0-4C08-ABE6-1D93A3B9CE9E - 5501d5cc8773c553"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CollectionViewDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "612">
+               </Location>
+               <Location
+                  uuid = "576D872C-75D0-4C08-ABE6-1D93A3B9CE9E - 5501d5cc8773c553"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CollectionViewDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "348">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B7D12004-9266-4824-8CD9-74BB561CDBAD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CollectionViewDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B7D12004-9266-4824-8CD9-74BB561CDBAD - 5501d5cc8773c7e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CollectionViewDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "2952">
+               </Location>
+               <Location
+                  uuid = "B7D12004-9266-4824-8CD9-74BB561CDBAD - 5501d5cc8773c7e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CollectionViewDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "2664">
+               </Location>
+               <Location
+                  uuid = "B7D12004-9266-4824-8CD9-74BB561CDBAD - 5501d5cc8773c7c0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CollectionViewDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "1548">
+               </Location>
+               <Location
+                  uuid = "B7D12004-9266-4824-8CD9-74BB561CDBAD - 5501d5cc8773c7c0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CollectionViewDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "1560">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "55BF7CA9-DF50-4E9A-8453-1C482838BC86"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CollectionViewDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "setCell(cell:day:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "55BF7CA9-DF50-4E9A-8453-1C482838BC86 - 5501d5cc8773c2ba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CollectionViewDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "436">
+               </Location>
+               <Location
+                  uuid = "55BF7CA9-DF50-4E9A-8453-1C482838BC86 - 59506cc38d22c804"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "$defer() -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CollectionViewDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "55BF7CA9-DF50-4E9A-8453-1C482838BC86 - 5501d5cc8773c57c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CollectionViewDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "288">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "69424E06-F11C-457C-8E13-87BB8A2E5ECC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CollectionViewDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1B240D1B-A659-4BD8-8C20-6CF77F534F61"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CalendarDayCell/CalendarDayCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "setupView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7DD73102-660E-40D4-9F09-9B8617FBAC76"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CalendarDayCell/CalendarDayCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "setFromTo(text:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7DD73102-660E-40D4-9F09-9B8617FBAC76 - b2152cc1392a5185"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarDayCell.resetView() -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CalendarDayCell/CalendarDayCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "7DD73102-660E-40D4-9F09-9B8617FBAC76 - b2152cc1392a5185"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarDayCell.resetView() -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CalendarDayCell/CalendarDayCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "268">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "91046761-3457-4857-B294-582D21C1BB4E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CalendarDayCell/CalendarDayCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "setColors(defaultLabelColor:selectedLabelColor:offDaysColor:selectedBGColor:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "91046761-3457-4857-B294-582D21C1BB4E - e718a52cc1149893"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarDayCell.showLeft_rightBGs() -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CalendarDayCell/CalendarDayCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "91046761-3457-4857-B294-582D21C1BB4E - e718a52cc1149893"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarDayCell.showLeft_rightBGs() -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CalendarDayCell/CalendarDayCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "268">
+               </Location>
+               <Location
+                  uuid = "91046761-3457-4857-B294-582D21C1BB4E - e718a52cc114984c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarDayCell.showLeft_rightBGs() -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CalendarDayCell/CalendarDayCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "344">
+               </Location>
+               <Location
+                  uuid = "91046761-3457-4857-B294-582D21C1BB4E - 19e35ec9da844eb4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarDayCell.setFromTo(text: Swift.String) -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CalendarDayCell/CalendarDayCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "372">
+               </Location>
+               <Location
+                  uuid = "91046761-3457-4857-B294-582D21C1BB4E - d02b5b99a5f32583"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarDayCell.setColors(defaultLabelColor: __C.UIColor, selectedLabelColor: __C.UIColor, offDaysColor: __C.UIColor, selectedBGColor: Swift.Array&lt;__C.CGColorRef&gt;) -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CalendarDayCell/CalendarDayCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "1824">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EF1B15A3-6E84-443C-AE54-89DA1642E7F8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CalendarDayCell/CalendarDayCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "setColors(defaultLabelColor:selectedLabelColor:offDaysColor:selectedBGColor:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EF1B15A3-6E84-443C-AE54-89DA1642E7F8 - 19e35ec9da844c7a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarDayCell.setFromTo(text: Swift.String) -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CalendarDayCell/CalendarDayCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "EF1B15A3-6E84-443C-AE54-89DA1642E7F8 - 19e35ec9da844c7a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarDayCell.setFromTo(text: Swift.String) -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CalendarDayCell/CalendarDayCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "372">
+               </Location>
+               <Location
+                  uuid = "EF1B15A3-6E84-443C-AE54-89DA1642E7F8 - d02b5b99a5f3270f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarDayCell.setColors(defaultLabelColor: __C.UIColor, selectedLabelColor: __C.UIColor, offDaysColor: __C.UIColor, selectedBGColor: Swift.Array&lt;__C.CGColorRef&gt;) -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CalendarDayCell/CalendarDayCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "EF1B15A3-6E84-443C-AE54-89DA1642E7F8 - d02b5b99a5f3274d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarDayCell.setColors(defaultLabelColor: __C.UIColor, selectedLabelColor: __C.UIColor, offDaysColor: __C.UIColor, selectedBGColor: Swift.Array&lt;__C.CGColorRef&gt;) -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CalendarDayCell/CalendarDayCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "32E527A6-45AB-4240-B0D3-B1B1225F597D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Utilities/Helpers.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1CA16F3F-F4FB-4054-8D51-52E7CB7EEC12"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Utilities/Extensions/UIViewExtension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "setGradientBackground(colors:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1CA16F3F-F4FB-4054-8D51-52E7CB7EEC12 - 34eaf6e6da785110"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__C.UIView.setGradientBackground(colors: Swift.Array&lt;__C.CGColorRef&gt;) -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Utilities/Extensions/UIViewExtension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "1CA16F3F-F4FB-4054-8D51-52E7CB7EEC12 - 34eaf6e6da785110"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__C.UIView.setGradientBackground(colors: Swift.Array&lt;__C.CGColorRef&gt;) -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Utilities/Extensions/UIViewExtension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5FA8FF14-EDA3-4DF5-956B-7F5A28118A4A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Utilities/Extensions/UIViewExtension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "setGradientBackground(colors:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5FA8FF14-EDA3-4DF5-956B-7F5A28118A4A - 34eaf6e6da7851cd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__C.UIView.setGradientBackground(colors: Swift.Array&lt;__C.CGColorRef&gt;) -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Utilities/Extensions/UIViewExtension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "456">
+               </Location>
+               <Location
+                  uuid = "5FA8FF14-EDA3-4DF5-956B-7F5A28118A4A - 34eaf6e6da7851cd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__C.UIView.setGradientBackground(colors: Swift.Array&lt;__C.CGColorRef&gt;) -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Utilities/Extensions/UIViewExtension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "216">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BD85024D-881F-4E0B-BFCF-8113A73484DE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CalendarDayCell/CalendarDayCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "setColors(defaultLabelColor:selectedLabelColor:offDaysColor:selectedBGColor:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BD85024D-881F-4E0B-BFCF-8113A73484DE - 19e35ec9da844fdf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarDayCell.setFromTo(text: Swift.String) -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CalendarDayCell/CalendarDayCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "852">
+               </Location>
+               <Location
+                  uuid = "BD85024D-881F-4E0B-BFCF-8113A73484DE - d02b5b99a5f324e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarDayCell.setColors(defaultLabelColor: __C.UIColor, selectedLabelColor: __C.UIColor, offDaysColor: __C.UIColor, selectedBGColor: Swift.Array&lt;__C.CGColorRef&gt;) -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CalendarDayCell/CalendarDayCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "BD85024D-881F-4E0B-BFCF-8113A73484DE - d02b5b99a5f324e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarDayCell.setColors(defaultLabelColor: __C.UIColor, selectedLabelColor: __C.UIColor, offDaysColor: __C.UIColor, selectedBGColor: Swift.Array&lt;__C.CGColorRef&gt;) -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CalendarDayCell/CalendarDayCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "248">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE12DBFC-DEC4-438A-B48E-028E5888F62C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Utilities/Extensions/UIViewExtension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "setGradientBackground(colors:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2E070394-178E-4B97-90E3-496AB7D252FB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CollectionViewDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E0ACBF44-0AFB-45D0-8AA0-8022F62ABB93"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CollectionViewDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E0ACBF44-0AFB-45D0-8AA0-8022F62ABB93 - bcbda5997bf52ad2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.collectionView(_: __C.UICollectionView, cellForItemAt: Foundation.IndexPath) -&gt; __C.UICollectionViewCell"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CollectionViewDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "1188">
+               </Location>
+               <Location
+                  uuid = "E0ACBF44-0AFB-45D0-8AA0-8022F62ABB93 - bcbda5997bf52a10"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.collectionView(_: __C.UICollectionView, cellForItemAt: Foundation.IndexPath) -&gt; __C.UICollectionViewCell"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CollectionViewDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "1716">
+               </Location>
+               <Location
+                  uuid = "E0ACBF44-0AFB-45D0-8AA0-8022F62ABB93 - bcbda5997bf52af1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.collectionView(_: __C.UICollectionView, cellForItemAt: Foundation.IndexPath) -&gt; __C.UICollectionViewCell"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CollectionViewDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "1832">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5A5AA42E-558A-4B91-8DE4-89ECD57C08AC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CalendarHelpersMethods.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "setNotSelected(days:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F0C8F09B-F247-4E65-AC62-ED4DB707A3C5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CollectionViewDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "CalendarView"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C61884D4-AED7-4EBD-829F-89525BC84929"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CollectionViewDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "CalendarView"
+            landmarkType = "21">
+            <Locations>
+               <Location
+                  uuid = "C61884D4-AED7-4EBD-829F-89525BC84929 - fc429d451a21074c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.setFromToLabel(days: inout Swift.Array&lt;NativeCalendar.Day&lt;Swift.Decodable &amp; Swift.Encodable&gt;&gt;) -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CollectionViewDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "119"
+                  endingLineNumber = "119"
+                  offsetFromSymbolStart = "488">
+               </Location>
+               <Location
+                  uuid = "C61884D4-AED7-4EBD-829F-89525BC84929 - fc429d451a21074c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.setFromToLabel(days: inout Swift.Array&lt;NativeCalendar.Day&lt;Swift.Decodable &amp; Swift.Encodable&gt;&gt;) -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CollectionViewDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "119"
+                  endingLineNumber = "119"
+                  offsetFromSymbolStart = "476">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FAACACF2-711D-4294-A9AD-355595478523"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CollectionViewDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FF218030-A251-40B2-91BB-49572942DB98"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CalendarDayCell2/CalendarDayCell1.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "awakeFromNib()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6CCA70E2-4D25-4ADE-BF8F-6FA4C3F18FA1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CalendarDayCell2/CalendarDayCell1.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "prepareForReuse()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6D11DDE5-B0A6-45D1-A341-BF0C7ADA9FF1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CalendarView/CalendarView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "getCalendarCellType()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6D11DDE5-B0A6-45D1-A341-BF0C7ADA9FF1 - f1d7b6182a917647"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarCellType.getCalendarCellType() -&gt; __C.UICollectionViewCell.Type"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CalendarView/CalendarView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "6D11DDE5-B0A6-45D1-A341-BF0C7ADA9FF1 - 6621f522c329bfbb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.isMonthView.didset : Swift.Bool"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CalendarView/CalendarView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2D789C23-A418-40BF-813A-60A041772A69"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CalendarView/CalendarView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "167"
+            endingLineNumber = "167"
+            landmarkName = "setupCalendarCollectionView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F6356C68-8967-45AB-B618-C0D8596E503F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CollectionViewDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F6356C68-8967-45AB-B618-C0D8596E503F - bcbda5997bf52918"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.collectionView(_: __C.UICollectionView, cellForItemAt: Foundation.IndexPath) -&gt; __C.UICollectionViewCell"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CollectionViewDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "612">
+               </Location>
+               <Location
+                  uuid = "F6356C68-8967-45AB-B618-C0D8596E503F - bcbda5997bf52918"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.collectionView(_: __C.UICollectionView, cellForItemAt: Foundation.IndexPath) -&gt; __C.UICollectionViewCell"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CollectionViewDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "648">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ABA7A81F-2910-44B5-882C-EDF9A87792B7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CollectionViewDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ABA7A81F-2910-44B5-882C-EDF9A87792B7 - bcbda5997bf52ad2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.collectionView(_: __C.UICollectionView, cellForItemAt: Foundation.IndexPath) -&gt; __C.UICollectionViewCell"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CollectionViewDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "1188">
+               </Location>
+               <Location
+                  uuid = "ABA7A81F-2910-44B5-882C-EDF9A87792B7 - bcbda5997bf52a94"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarView.collectionView(_: __C.UICollectionView, cellForItemAt: Foundation.IndexPath) -&gt; __C.UICollectionViewCell"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CollectionViewDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "1948">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF64BD99-5D04-49CB-943D-B39A4AC07764"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CollectionViewDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AEA5786A-6E74-4075-B760-F5B9DF02FA62"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CollectionViewDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8962861D-993F-4EDB-B314-09FF290D03ED"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CalendarDayCell/CalendarDayCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "awakeFromNib()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8962861D-993F-4EDB-B314-09FF290D03ED - ee7fdc85bbae914c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarDayCell.setDay(day: Swift.Optional&lt;NativeCalendar.Day&lt;Swift.Decodable &amp; Swift.Encodable&gt;&gt;, isMonthView: Swift.Bool) -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CalendarDayCell/CalendarDayCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "464">
+               </Location>
+               <Location
+                  uuid = "8962861D-993F-4EDB-B314-09FF290D03ED - 11e3484d8b77a7f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarDayCell.awakeFromNib() -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CalendarDayCell/CalendarDayCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "53F3FE2D-22E3-4919-8C15-7A1C45386910"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CalendarDayCell/CalendarDayCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "setFromTo(text:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "53F3FE2D-22E3-4919-8C15-7A1C45386910 - 19e35ec9da844921"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarDayCell.setFromTo(text: Swift.String) -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CalendarDayCell/CalendarDayCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "1312">
+               </Location>
+               <Location
+                  uuid = "53F3FE2D-22E3-4919-8C15-7A1C45386910 - 19e35ec9da844921"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeCalendar.CalendarDayCell.setFromTo(text: Swift.String) -&gt; ()"
+                  moduleName = "NativeCalendarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtalaat/Library/Developer/Xcode/DerivedData/NativeCalendarTest-fgyhtrqcruztoudrfjjghsjwghhi/SourcePackages/checkouts/NativeCalendar/Sources/NativeCalendar/Calendar/CalendarDayCell/CalendarDayCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "1348">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

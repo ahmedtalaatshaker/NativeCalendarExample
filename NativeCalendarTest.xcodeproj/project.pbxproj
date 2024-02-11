@@ -13,6 +13,7 @@
 		D0AA4E1F2B6C137B00B809A8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D0AA4E1D2B6C137B00B809A8 /* Main.storyboard */; };
 		D0AA4E212B6C137C00B809A8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0AA4E202B6C137C00B809A8 /* Assets.xcassets */; };
 		D0AA4E242B6C137C00B809A8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D0AA4E222B6C137C00B809A8 /* LaunchScreen.storyboard */; };
+		D0AA4E2D2B6C13B500B809A8 /* NativeCalendar in Frameworks */ = {isa = PBXBuildFile; productRef = D0AA4E2C2B6C13B500B809A8 /* NativeCalendar */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D0AA4E2D2B6C13B500B809A8 /* NativeCalendar in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -83,6 +85,9 @@
 			dependencies = (
 			);
 			name = NativeCalendarTest;
+			packageProductDependencies = (
+				D0AA4E2C2B6C13B500B809A8 /* NativeCalendar */,
+			);
 			productName = NativeCalendarTest;
 			productReference = D0AA4E142B6C137B00B809A8 /* NativeCalendarTest.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +116,9 @@
 				Base,
 			);
 			mainGroup = D0AA4E0B2B6C137B00B809A8;
+			packageReferences = (
+				D0AA4E2B2B6C13B500B809A8 /* XCRemoteSwiftPackageReference "NativeCalendar" */,
+			);
 			productRefGroup = D0AA4E152B6C137B00B809A8 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -358,6 +366,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		D0AA4E2B2B6C13B500B809A8 /* XCRemoteSwiftPackageReference "NativeCalendar" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/ahmedtalaatshaker/NativeCalendar";
+			requirement = {
+				branch = main;
+				kind = branch;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		D0AA4E2C2B6C13B500B809A8 /* NativeCalendar */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = D0AA4E2B2B6C13B500B809A8 /* XCRemoteSwiftPackageReference "NativeCalendar" */;
+			productName = NativeCalendar;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = D0AA4E0C2B6C137B00B809A8 /* Project object */;
 }

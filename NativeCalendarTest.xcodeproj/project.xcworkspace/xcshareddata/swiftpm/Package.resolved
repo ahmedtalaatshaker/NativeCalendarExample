@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "nativecalendar",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ahmedtalaatshaker/NativeCalendar",
+      "state" : {
+        "branch" : "main",
+        "revision" : "381bd65231144e08a2a3b7d9aeaf84cb84243600"
+      }
+    }
+  ],
+  "version" : 2
+}

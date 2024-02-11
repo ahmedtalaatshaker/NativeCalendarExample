@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "CalendarView.generateDay(offsetBy:for:isWithinDisplayedMonth:):CalendarDayGeneration.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "userSelectedDate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
