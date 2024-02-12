@@ -38,15 +38,20 @@ class ViewController: UIViewController {
         let datesWithEvents = Helpers.shared.getDate(dateString: daysWithEvents)
         let calendarData = getCalendarData(datesWithEvents: datesWithEvents)
         
-        calendarView.setCellStyle(defaultLabelColor: .label, selectedLabelColor: .white, offDaysColor: .secondaryLabel, selectedBGColor: [#colorLiteral(red: 0.5568627715, green: 0.3529411852, blue: 0.9686274529, alpha: 1).cgColor, #colorLiteral(red: 0, green: 0, blue: 0, alpha: 1).cgColor, #colorLiteral(red: 0.5568627715, green: 0.3529411852, blue: 0.9686274529, alpha: 1).cgColor])
+        calendarView.setCellStyle(defaultLabelColor: .label,
+                                  selectedLabelColor: .white,
+                                  offDaysColor: .secondaryLabel,
+                                  weekendDayColor: .red,
+                                  selectedBGColor: [#colorLiteral(red: 0.9529411793, green: 0.6862745285, blue: 0.1333333403, alpha: 1).cgColor, #colorLiteral(red: 0, green: 0, blue: 0, alpha: 1).cgColor, #colorLiteral(red: 0.9529411793, green: 0.6862745285, blue: 0.1333333403, alpha: 1).cgColor])
         
         calendarView.setData(calendar: calendar,
-                             cellType: .CalendarDayCellType,
+                             cellType: .CalendarNewCellType,
                              offDates: offDates,
                              datesWithEvents: calendarData,
                              endDate: endDate,
                              startDate: startDate,
                              firstWeekDay: .saturday,
+                             weekend: [.saturday, .friday],
                              selectionType: .from_to) { userSelection in
             userSelection.forEach { selection in
                 selection.events?.forEach({ event in
